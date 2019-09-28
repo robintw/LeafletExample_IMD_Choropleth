@@ -1,0 +1,20 @@
+#map {
+    height: 500px;
+}
+
+.sublegend-color {
+    width: 20px;
+    border: 1px solid #666666;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.sublegend-item {
+    padding-top: 0.2em;
+}
+
+.sublegend {
+    list-style: none;
+    padding-inline-start: 24px;
+    margin-top: 0px;
+}
